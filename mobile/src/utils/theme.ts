@@ -1,5 +1,7 @@
 import { StyleSheet } from 'react-native';
-import { constants, components, base } from './';
+import { base } from 'utils/base';
+import { constants } from 'utils/constants';
+import { components } from 'utils/constants';
 
 export const theme = StyleSheet.create({
 	link: {

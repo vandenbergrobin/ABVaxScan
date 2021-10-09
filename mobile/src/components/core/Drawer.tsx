@@ -1,7 +1,7 @@
 import React from 'react';
 import Modal, { ModalProps } from 'react-native-modal';
-import { SafeAreaView } from './';
-import { base, constants } from '../../utils';
+import { SafeAreaView } from 'react-native';
+import { base, constants } from 'utils';
 
 interface IProps extends ModalProps {
 }

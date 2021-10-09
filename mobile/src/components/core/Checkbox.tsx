@@ -2,7 +2,7 @@ import React from 'react';
 import { View, TouchableOpacity, StyleSheet, TextStyle, ViewStyle, StyleProp } from 'react-native';
 import Icon from 'react-native-vector-icons/MaterialIcons';
 import { constants, base, components } from 'utils';
-import { Text } from 'components/core';
+import { Text } from 'components/core/Text';
 
 const { checkbox } = components;
 

@@ -1,7 +1,7 @@
 import React from 'react';
 import { TextInput, TextInputProps, View } from 'react-native';
 import { components, base, constants } from 'utils';
-import { Text } from 'components/core';
+import { Text } from 'components/core/Text';
 
 const { input, inputContainer } = components;
 
